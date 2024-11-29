@@ -1,8 +1,8 @@
 # Welcome!
 
-Hello, my name is Miguel. I am an undergraduate student in Computer Engineering and have been studying programming for over 2 years. I am passionate about the field and have various areas of interest.
+Hello, my name is Miguel. I'm an undergraduate student in Computer Engineering and have been studying programming for over 2 years. I'm passionate about the field and have various areas of interest.
 
-Lately, I have been studying VueJS with Vuetify for Front-End in web applications. I am also proficient in Back-End with NodeJS and its frameworks: ExpressJS, FastifyJS, and NestJS, using tools like Git and Docker. Additionally, I have experience with relational databases such as PostgreSQL and MySQL.
+Lately, I've been studying VueJS with Vuetify for Front-End in web applications. I'm also proficient in Back-End with NodeJS and its frameworks: ExpressJS, FastifyJS, and NestJS, using tools like Git and Docker. Additionally, I've experience with relational databases such as PostgreSQL and MySQL.
 
 ---
 

@@ -1,8 +1,5 @@
 # Welcome!
 
-## About
-
-### Introduction
 Hello, my name is Miguel. I am an undergraduate student in Computer Engineering and have been studying programming for over 2 years. I am passionate about the field and have various areas of interest.
 
 Lately, I have been studying VueJS with Vuetify for Front-End in web applications. I am also proficient in Back-End with NodeJS and its frameworks: ExpressJS, FastifyJS, and NestJS, using tools like Git and Docker. Additionally, I have experience with relational databases such as PostgreSQL and MySQL.
@@ -10,6 +7,8 @@ Lately, I have been studying VueJS with Vuetify for Front-End in web application
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pezzini&layout=compact&hide=c%2B%2B,c)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-pezzini-k%C3%BChr-b36605301/)
 
 ## Skills
 

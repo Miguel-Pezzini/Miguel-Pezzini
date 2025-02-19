@@ -6,7 +6,7 @@ Lately, I've been studying VueJS with Vuetify for Front-End in web applications.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pezzini&layout=compact&hide=c%2B%2B,c)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pezzini&layout=compact&hide=c%2B%2B,c](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pezzini&layout=compact&hide=c%2B%2B,c))
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-pezzini-k%C3%BChr-b36605301/)
 

@@ -1,8 +1,8 @@
-# Welcome!
+# 👋 Welcome!
 
-Hello, my name is Miguel. I'm an undergraduate student in Computer Engineering and have been studying programming for over 2 years. I'm passionate about the field and have various areas of interest.
+Hello, my name is Miguel, and I'm an undergraduate student in Computer Engineering with over 2 years of experience in programming. I'm passionate about technology and enjoy exploring various fields within it.
 
-Lately, I've been studying VueJS with Vuetify for Front-End in web applications. I'm also proficient in Back-End with NodeJS and its frameworks: ExpressJS, FastifyJS, and NestJS, using tools like Git and Docker. Additionally, I've experience with relational databases such as PostgreSQL and MySQL.
+Recently, I've been diving into VueJS and Vuetify for Front-End development, while also honing my skills in Back-End technologies such as NodeJS, ExpressJS, FastifyJS, and NestJS. I work with relational databases like PostgreSQL and MySQL, and I've expanded my expertise to include Java Spring Boot for building robust and scalable back-end applications. I'm also familiar with tools like Git and Docker, which are essential in modern development workflows.
 
 ---
 
@@ -11,10 +11,13 @@ Lately, I've been studying VueJS with Vuetify for Front-End in web applications.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Pezzini&show_icons=true&theme=radical"/>
 </p>
 
+## 📞 My Contacts
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-pezzini-k%C3%BChr-b36605301/)
+[![Gmail Badge](https://img.shields.io/badge/-miguel@gmail.com.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:miguel@example.com)
 
+## 🚀 Skills
 
-## Skills
 
 Here are the technologies I work with:
 

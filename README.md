@@ -7,8 +7,8 @@ Recently, I've been diving into VueJS and Vuetify for Front-End development, whi
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pezzini&includes_all_commits=true&layout=compact&hide=c%2B%2B,c&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Pezzini&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pezzini&layout=compact&hide=c%2B%2B,c&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Pezzini&includes_all_commits=true&show_icons=true&theme=radical"/>
 </p>
 
 ## 📞 My Contacts

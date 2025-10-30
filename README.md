@@ -1,8 +1,8 @@
 # 👋 Welcome!
 
-Hello, my name is Miguel, and I'm an undergraduate student in Computer Engineering with over 2 years of experience in programming. I'm passionate about technology and enjoy exploring various fields within it.
-
-Recently, I've been diving into VueJS and Vuetify for Front-End development, while also honing my skills in Back-End technologies such as NodeJS, ExpressJS, FastifyJS, and NestJS. I work with relational databases like PostgreSQL and MySQL, and I've expanded my expertise to include Java Spring Boot for building robust and scalable back-end applications. I'm also familiar with tools like Git and Docker, which are essential in modern development workflows.
+I'm an undergraduate Computer Science student with over 3 years of experience in software development.
+I focus on building scalable and reliable backend systems using Java, Go, and TypeScript, following clean architecture and modern engineering practices.
+I also use Vue.js and Vuetify to create clear and functional interfaces that visually showcase my backend projects.
 
 ---
 

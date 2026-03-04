@@ -6,11 +6,6 @@ I also use Vue.js and Vuetify to create clear and functional interfaces that vis
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pezzini&layout=compact&hide=c%2B%2B,c&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Pezzini&show_icons=true&theme=radical"/>
-</p>
-
 ## 📞 My Contacts
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-pezzini-k%C3%BChr-b36605301/)

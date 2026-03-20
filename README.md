@@ -1,6 +1,7 @@
 # 👋 Welcome!
 
 Software Engineer focused on building scalable, high-performance systems.
+
 I care about high quality code, efficient architectures, and solving complex problems with simple solutions. Always learning, always improving.
 
 ---

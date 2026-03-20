@@ -1,8 +1,7 @@
 # 👋 Welcome!
 
-I'm an undergraduate Computer Science student with over 3 years of experience in software development.
-I focus on building scalable and reliable backend systems using Java, Go, and TypeScript, following clean architecture and modern engineering practices.
-I also use Vue.js and Vuetify to create clear and functional interfaces that visually showcase my backend projects.
+Software Engineer focused on building scalable, high-performance systems.
+I care about high quality code, efficient architectures, and solving complex problems with simple solutions. Always learning, always improving.
 
 ---
 
